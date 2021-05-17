@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">Blockchain Developer</h3>
+<h3 align="center">Blockchain Developer in Training</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
