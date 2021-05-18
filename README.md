@@ -22,8 +22,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%2300f?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-  
-  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -33,35 +31,18 @@
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-%23D42029?style=flat-square&logo=Apache&logoColor=white" />
   <img alt="Debain" src="https://img.shields.io/badge/-Debain-D70A53?style=flat-square&logo=Debain&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
-  
-  
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white" /> 
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-2307405e?style=flat-square&logo=SQLite&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
-  
- 
-  
-  
-  
- 
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-%2311AB00?style=flat-square&logo=Vim&logoColor=white" />
-
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=Nginx&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-python-%2314354C?style=flat-square&logo=python&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
-  <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-000000?style=flat-square&logo=Bitcoin&logoColor=white" />
-
-  
-  
-
-  
-  
-  
+  <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-000000?style=flat-square&logo=Bitcoin&logoColor=white" /> 
 </p>
 
 
