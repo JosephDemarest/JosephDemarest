@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
-
-- 🌱 I’m currently learning **Solidity**
-
-- 📫 How to reach me **joseph.demarest@cix.csi.cuny.edu**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joseph-demarest-463334124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/giannagalard/" height="30" width="40" /></a>
@@ -44,6 +39,10 @@
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
   <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-000000?style=flat-square&logo=Bitcoin&logoColor=white" /> 
 </p>
+
+- 🌱 I’m currently learning **Solidity**
+
+- 📫 How to reach me **joseph.demarest@cix.csi.cuny.edu**
 
 
 <h3 align="left">Cool Stats:</h3>
