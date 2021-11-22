@@ -44,6 +44,8 @@
 
 - 📫 How to reach me **joseph.demarest@cix.csi.cuny.edu**
 
+- Check out my NFT Minting Dapp: https://github.com/Kawaii-Waifu/Kawaii-Waifus
+
 
 <h3 align="left">Cool Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephdemarest&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="josephdemarest" /></p>
