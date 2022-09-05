@@ -31,7 +31,7 @@
   <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-000000?style=flat-square&logo=Bitcoin&logoColor=white" /> 
 </p>
 
-- 🌱 I’m currently learning **Solidity**
+
 
 - 📫 How to reach me **joseph.demarest@cix.csi.cuny.edu**
 
