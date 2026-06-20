@@ -8,7 +8,6 @@
   <a href="https://demarest.dev/"><img src="https://img.shields.io/badge/Blog-demarest.dev-000000?style=flat-square&logo=dev.to&logoColor=white" alt="Blog" /></a>
 </div>
 <br>
----
 
 ### ⚙️ Engineering & Architecture Domains
 
