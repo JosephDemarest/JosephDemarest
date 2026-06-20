@@ -8,12 +8,6 @@
   <a href="https://demarest.dev/"><img src="https://img.shields.io/badge/Blog-demarest.dev-000000?style=flat-square&logo=dev.to&logoColor=white" alt="Blog" /></a>
 </div>
 <br>
-
-<!-- WIDGET: TERMINAL SUMMARY -->
-<blockquote>
-💻 <b>SYS_INFO:</b> Bridging the gap between raw hardware control and complex physics calculations. Specializing in high-precision laboratory instrumentation, automated test rigs, and scientific motion control.
-</blockquote>
-
 ---
 
 ### ⚙️ Engineering & Architecture Domains
