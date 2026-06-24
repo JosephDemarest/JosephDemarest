@@ -75,3 +75,8 @@
 ![Microsoft Suite](https://img.shields.io/badge/Microsoft_Suite-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 ---
+[![tokens](https://srctyff5.us-east.insforge.app/functions/tokentracker-badge-svg?user_id=6ab48813-0852-431b-91f5-d929be92c262&metric=tokens)](https://github.com/mm7894215/TokenTracker)
+[![cost](https://srctyff5.us-east.insforge.app/functions/tokentracker-badge-svg?user_id=6ab48813-0852-431b-91f5-d929be92c262&metric=cost)](https://github.com/mm7894215/TokenTracker)
+[![rank](https://srctyff5.us-east.insforge.app/functions/tokentracker-badge-svg?user_id=6ab48813-0852-431b-91f5-d929be92c262&metric=rank)](https://github.com/mm7894215/TokenTracker)
+
+---
